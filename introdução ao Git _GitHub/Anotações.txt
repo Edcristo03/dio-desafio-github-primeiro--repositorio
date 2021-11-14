@@ -1,0 +1,32 @@
+Ensinamentos de como percorrer e  criar pastas pelo prompt de comando 
+
+Windows
+cd - navega entre as pastas
+dir - lista diretórios
+mkdir cria novas pastas
+del - deleta arquivos 
+rmdir - deleta pastas
+
+Unix
+cd - navega entre as pastas
+ls - lista diretórios
+mkdir cria novas pastas
+rm - deleta arquivos 
+rf - deleta pastas
+
+GIT
+
+Comandos do GIT
+git init
+git add *
+git commit
+git status
+git config
+
+Commit -> Tree -> blob -> Sha 1
+
+
+GitHub
+Criação e edição de Repositórios
+
+Git Bash é um terminal estendido para otimizar o uso do Git
